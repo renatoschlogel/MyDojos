@@ -1,10 +1,10 @@
-package com.rws.dojos.efeitomagnetico;
+package com.rws.Dojos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EfeitoMagneticoApplicationTests {
+class DojosApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package com.rws.dojos.efeitomagnetico;
+package com.rws.Dojos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EfeitoMagneticoApplication {
+public class DojosApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EfeitoMagneticoApplication.class, args);
+		SpringApplication.run(DojosApplication.class, args);
 	}
 
 }

@@ -8,11 +8,11 @@
 		<version>2.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.rws.dojos</groupId>
-	<artifactId>EfeitoMagnetico</artifactId>
+	<groupId>com.rws</groupId>
+	<artifactId>Dojos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>EfeitoMagnetico</name>
-	<description>Dojo Efeito Magnético</description>
+	<name>Dojos</name>
+	<description>Dojos</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
